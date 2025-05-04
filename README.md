@@ -22,7 +22,7 @@ sudo dnf install -y nano bash-completion
 
 nano install_docker_stack.sh
 
-paste
+Incolla lo scritp sotto
 
 
 
