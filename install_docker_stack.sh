@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script di installazione per Docker, Portainer e Jellyfin su Rocky Linux 9.5
-
+# Author: Luca Sabato, SystemAdmin, defence ITA 
 # Funzione per verificare se lo script è eseguito come root
 check_root() {
     if [ "$(id -u)" -ne 0 ]; then
